@@ -11,3 +11,12 @@ langchain_google_genai
 langchain_tavily
 langchain-mcp-adapters
 mcp
+langchain-core
+langchain-community
+pypdf
+pymupdf
+langchain-text-splitters
+sentence-transformers
+faiss-cpu
+chromadb
+sentence_transformers
