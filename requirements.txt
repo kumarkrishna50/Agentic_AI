@@ -9,3 +9,5 @@ langgraph
 langsmith
 langchain_google_genai
 langchain_tavily
+langchain-mcp-adapters
+mcp
