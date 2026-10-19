@@ -7,3 +7,5 @@ langchain-google-genai
 ipykernel
 langgraph
 langsmith
+langchain_google_genai
+langchain_tavily
